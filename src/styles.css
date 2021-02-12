@@ -1,0 +1,51 @@
+nav {
+  background: #e0e0e0;
+  font-family: monospace;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 200px;
+}
+
+main {
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#navbar header {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#navbar ul {
+  margin: 15px 0;
+  padding-left: 0;
+}
+#navbar li {
+  border-top: 1px solid #424d47;
+  list-style-type: none;
+  padding: 10px 15px;
+}
+
+.nav-link {
+  color: #424d47;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+#Processing_steps img {
+  display: block;
+  margin: 0 auto;
+}
+#steps-legend {
+  font-size: 14px;
+  margin-top: 5px;
+  text-align: center;
+}

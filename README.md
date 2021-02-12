@@ -1,2 +1,3 @@
 # Technical-Documentation
- A fake technical documentation page
+
+A fake technical documentation page for the FreeCodeCamp Responsive Web Design projects.
