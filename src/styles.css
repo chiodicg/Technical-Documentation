@@ -67,3 +67,22 @@ p.main {
 code {
   font-size: 15px;
 }
+
+@media only screen and (max-width: 800px) {
+  nav {
+    width: 150px;
+  }
+  main {
+    margin-left: 150px;
+    padding: 0 10px 10px;
+  }
+  #navbar header {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .nav-link {
+    color: #424d47;
+    font-size: 12px;
+    text-decoration: none;
+  }
+}
